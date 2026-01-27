@@ -1,0 +1,2 @@
+# Automa-o-De-Envio-De-Emails-Via-ExpressoMail-e-Gmail
+Sistema de Automação de Envio de E-mails - ATI-PE Este projeto é uma solução de automação desenvolvida para otimizar o envio de e-mails institucionais na ATI-PE (Agência de Tecnologia da Informação de Pernambuco). O sistema permite enviar e-mails em massa via planilha Excel ou envio direto individual, com suporte a duas plataformas:Expresso e Gmail
